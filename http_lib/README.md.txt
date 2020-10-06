@@ -1,0 +1,1 @@
+This is kind of a custom HTTP library where get,put,push,delete operations are supported easily
