@@ -1,0 +1,18 @@
+* {
+    background: #333;
+
+}
+.output {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+#search {
+    display: inline-block;
+      font-size: 18px;
+      color: #fff;
+      background: black;
+      padding: 13px 20px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+  }
